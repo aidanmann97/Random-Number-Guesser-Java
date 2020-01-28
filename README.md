@@ -3,10 +3,10 @@ Guess a random number between 1-100
 
 # What I Learned
 
-- Random Numbers
+Random Numbers
 
-- Conditionals
+Conditionals
 
-- Booleans
+Booleans
 
-- Input Validation
+Input Validation
